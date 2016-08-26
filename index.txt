@@ -1,1 +1,44 @@
-엔터프라이즈 컴포넌트, 플러그인, 퀵프로세스
+#엔터프라이즈 컴포넌트, 플러그인, 퀵프로세스
+
+1.테이블 셀 병합
+
+2.자동로그인
+
+3.부트스트랩 실시간 인터렉티브 연동
+
+4.jsGrid 연동
+
+5.gojS 연동
+
+6.charjs 연동
+
+7.String 다루기 contain, startwith, token parsing, concatenation, substring
+
+8.regular Expression 정규표현식, 영문으로 시작하는 글
+
+9.목록트리 만들기와 목록 정의
+
+10.윈도우 매크로
+
+11.폰갭, 하이브리드 앱
+
+12.w3cshool : html5, css3, jquery, ajax, appML, AngularJS, nodejs
+
+13.암호화 : 단방향, 양방향
+
+14.세션과 쿠키
+
+15.과거 연습했던 스프링 게시판 등 자료 github에 넣기
+
+
+NHIC
+
+/jsp
+/parsing : 토큰파싱, 전문길이 파싱, 스플릿
+/fastquery
+/tlog
+/interactive : HTML5, JQUERY, CSS3 각 애니메이션 연동
+/doc_parse : excel, pdf, doc 파싱
+/com_parse : xml, json, html 파싱
+
+
